@@ -1,0 +1,13 @@
+node_module/
+
+
+ ############log####################
+
+logs
+
+npm-debug.log*
+
+##Env
+.env
+
+.npm

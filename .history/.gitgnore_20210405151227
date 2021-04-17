@@ -1,0 +1,9 @@
+node_module/
+ ############log####################
+
+logs
+npm-debug-log*
+
+##Environ
+
+.en

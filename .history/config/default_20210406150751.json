@@ -1,0 +1,6 @@
+{
+    "dbURI": "mongodb+srv://taha:<password>@cluster0.ldl1x.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+",
+    "jwtsecret": " jwt"
+   
+}
